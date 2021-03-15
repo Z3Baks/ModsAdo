@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Modified by OreoShaman, do not Re-Upload,modify,edit, or use these file in your own mods without permission. -->
+<MainWaterTune>
+  <WaterColor value="0x1A00191C" />
+  <RippleScale value="0.075000" />
+  <OceanFoamScale value="0.049000" />
+  <SpecularFalloff value="4900.000000" />
+  <FogPierceIntensity value="1.090000" />
+  <RefractionBlend value="0.690000" />
+  <RefractionExponent value="0.245000" />
+  <WaterCycleDepth value="9.900000" />
+  <WaterCycleFade value="49.900000" />
+  <WaterLightningDepth value="0.000000" />
+  <WaterLightningFade value="9.900000" />
+  <DeepWaterModDepth value="89.900000" />
+  <DeepWaterModFade value="79.900000" />
+  <GodRaysLerpStart value="0.000000" />
+  <GodRaysLerpEnd value="199.900000" />
+  <DisturbFoamScale value="0.049000" />
+  <FogMin x="-3990.000000" y="-3990.000000" />
+  <FogMax x="4499.000000" y="7999.900000" />
+</MainWaterTune>
